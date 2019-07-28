@@ -1,2 +1,1 @@
-#the_pantry GitHub Checkpoint Assignment
-
+Learning how to commit and manage projects through Github with bloc.io
